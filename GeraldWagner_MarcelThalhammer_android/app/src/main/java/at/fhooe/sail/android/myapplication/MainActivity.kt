@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
     fun thisIsANewMethod(){
-
+	val mhh: String="mhhhhh"
     }
 }
